@@ -44,7 +44,7 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 
 ## 📫 Connect with Me
 - 📧 Email: jimidorcas1@gmail.com
-- 💼 LinkedIn: [LinkedIn — Dorcas Olujimi](https://www.linkedin.com/in/dorcas-o-3028b29a/)
+- 💼 LinkedIn: [— Dorcas Olujimi](https://www.linkedin.com/in/dorcas-o-3028b29a/)
 
 - 💻 GitHub: [github.com/jimidorcas](https://github.com/jimidorcas)
 
