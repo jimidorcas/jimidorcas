@@ -24,7 +24,8 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 - Used Python for data extraction and analysis  
 - Created visual reports to highlight trends in phishing techniques  
 
-### 📊 SIEM Monitoring Lab – Home Setup (Splunk)(https://github.com/jimidorcas/siem-monitoring-lab)  
+### 📊 [SIEM Monitoring Lab – Home Setup (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
+ 
 - Built a home SIEM lab for hands-on threat detection practice  
 - Ingested logs from multiple sources and configured dashboards & alerts  
 - Simulated real-world incident detection workflows  
