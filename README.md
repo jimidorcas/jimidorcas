@@ -35,9 +35,9 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 ## 🎓 Certifications
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
-- Mastercard Cybersecurity Virtual Experience Program – Forage
-- Tata Cybersecurity Security Analyst Virtual Program – Forage
-- Datacom Cybersecurity Virtual Experience – Forage
+- Mastercard Cybersecurity Virtual Experience Program 
+- Tata Cybersecurity Security Analyst Virtual Program 
+- Datacom Cybersecurity Virtual Experience
 
 ---
 
