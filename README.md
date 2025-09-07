@@ -37,7 +37,7 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 - Simulated real-world incident detection workflows
 - **Skills:** SIEM configuration, SPL query writing, Threat detection, SOC workflows
 
-### 📄 [Incident Response Playbook](https://github.com/jimidorcas/incident-response-playbook)  
+### 📄 [Incident Response Playbook](https://github.com/jimidorcas/incident-response-playbooks)  
 - Developed an IR playbook for phishing-to-malware incidents based on NIST CSF  
 - Documented detection, containment, eradication, and recovery steps  
 - Included escalation workflows and communication templates for stakeholders  
