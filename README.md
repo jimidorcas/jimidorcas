@@ -18,17 +18,30 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 ---
 
 ## 📂 Featured Projects
+### 🛡️ [Phishing Awareness Training](https://github.com/jimidorcas/phishing-awareness)  
+- Created a phishing awareness mini-program tailored for HR and Marketing teams  
+- Built a 4–6 slide training deck, a one-page checklist, and a short quiz  
+- Designed reporting workflows and awareness tips for non-technical staff  
+- **Skills:** Security awareness training, End-user education, Policy development 
 
 ### 🔍 [Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)  
 - Analyzed phishing emails to identify indicators of compromise  
 - Used Python for data extraction and analysis  
-- Created visual reports to highlight trends in phishing techniques  
+- Created visual reports to highlight trends in phishing techniques
+- **Skills:** Python scripting, Threat analysis, Data visualisation 
 
 ### 📊 [SIEM Monitoring Lab – Home Setup (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
  
 - Built a home SIEM lab for hands-on threat detection practice  
 - Ingested logs from multiple sources and configured dashboards & alerts  
-- Simulated real-world incident detection workflows  
+- Simulated real-world incident detection workflows
+- **Skills:** SIEM configuration, SPL query writing, Threat detection, SOC workflows
+
+### 📄 [Incident Response Playbook](https://github.com/jimidorcas/incident-response-playbook)  
+- Developed an IR playbook for phishing-to-malware incidents based on NIST CSF  
+- Documented detection, containment, eradication, and recovery steps  
+- Included escalation workflows and communication templates for stakeholders  
+- **Skills:** Incident response planning, NIST CSF, Risk communication 
 
 ---
 
