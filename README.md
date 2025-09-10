@@ -45,7 +45,7 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 
 ---
 
-## 🎓 Certifications
+## 🎓 Certifications & Trainings
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
 - Mastercard Cybersecurity Virtual Experience Program 
