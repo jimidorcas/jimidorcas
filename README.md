@@ -20,7 +20,7 @@ My work includes **hands-on projects** in phishing analysis, SIEM monitoring, an
 ## 📂 Featured Projects
 ### 🛡️ [Phishing Awareness Training](https://github.com/jimidorcas/phishing-awareness)  
 - Created a phishing awareness mini-program tailored for HR and Marketing teams  
-- Built a 4–6 slide training deck, a one-page checklist, and a short quiz  
+- Built a 6 slide training deck, a one-page checklist, and a short quiz  
 - Designed reporting workflows and awareness tips for non-technical staff  
 - **Skills:** Security awareness training, End-user education, Policy development 
 
