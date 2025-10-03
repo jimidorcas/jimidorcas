@@ -1,65 +1,40 @@
-# 👋 Hi, I’m Dorcas Olujimi  
+a# 👋 Hi, I’m Dorcas  
 
-**Cybersecurity Professional | Threat Detection | Security Gap Analysis | SIEM Monitoring**  
-
-I help organisations strengthen their security posture through **risk assessment**, **threat detection**, and **security awareness training**.  
-My work includes **hands-on projects** in phishing analysis, SIEM monitoring, and virtual experience programs with global companies.  
+🔐 **Cybersecurity Analyst** with a growing focus in **Identity & Access Management (IAM)** and **Risk Management**.  
+I enjoy breaking down security challenges into practical, actionable solutions — from monitoring and detection to designing policies and reducing risk exposure.  
 
 ---
 
-## 🛡️ Key Skills
-- Security Gap Analysis & Risk Assessment
-- Phishing Threat Detection
-- Identity & Access Management (IAM)
-- SIEM Monitoring (Splunk)
-- Security Awareness Training Development
-- Technical Documentation & Reporting
+## 🚀 What I’m Working On
+- 📨 **[Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)** – Detecting & documenting phishing attempts.  
+- 📊 **SIEM Monitoring Lab – Splunk Home Setup** – Building dashboards, analyzing logs, and monitoring threats.  
+- 🛡️ **[Phishing Link Verification Checklist](https://github.com/jimidorcas/phishing-link-verification-checklist)** – A professional checklist to verify links and prevent phishing.  
+- 📑 Risk Assessments – Developing structured risk assessment templates with inherent/current/target risk ratings.  
+- 🔐 IAM Solution Designs – Outlining lifecycle management & access control strategies.
 
 ---
 
-## 📂 Featured Projects
-### 🛡️ [Phishing Awareness Training](https://github.com/jimidorcas/phishing-awareness)  
-- Created a phishing awareness mini-program tailored for HR and Marketing teams  
-- Built a 6 slide training deck, a one-page checklist, and a short quiz  
-- Designed reporting workflows and awareness tips for non-technical staff  
-- **Skills:** Security awareness training, End-user education, Policy development 
-
-### 🔍 [Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)  
-- Analyzed phishing emails to identify indicators of compromise  
-- Used Python for data extraction and analysis  
-- Created visual reports to highlight trends in phishing techniques
-- **Skills:** Python scripting, Threat analysis, Data visualisation 
-
-### 📊 [SIEM Monitoring Lab – Home Setup (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
- 
-- Built a home SIEM lab for hands-on threat detection practice  
-- Ingested logs from multiple sources and configured dashboards & alerts  
-- Simulated real-world incident detection workflows
-- **Skills:** SIEM configuration, SPL query writing, Threat detection, SOC workflows
-
-### 📄 [Incident Response Playbook](https://github.com/jimidorcas/incident-response-playbooks)  
-- Developed an IR playbook for phishing-to-malware incidents based on NIST CSF  
-- Documented detection, containment, eradication, and recovery steps  
-- Included escalation workflows and communication templates for stakeholders  
-- **Skills:** Incident response planning, NIST CSF, Risk communication 
+## 🧰 Skills & Tools
+- **Threat Analysis & SOC Tools**: Splunk, Wireshark, OSINT  
+- **Identity & Access Management (IAM)**: RBAC, MFA, lifecycle automation concepts  
+- **Risk Management**: Risk assessments, security controls, GRC frameworks (ISO 27001, NIST CSF)  
+- **Cybersecurity Foundations**: Network security, phishing detection, vulnerability management  
+- **Languages & Tech**: Python (automation), SQL, Linux  
 
 ---
 
-## 🎓 Certifications & Trainings
-- ISC2 Certified in Cybersecurity (CC)
-- Google Cybersecurity Professional Certificate
-- Tata Cybersecurity Security Analyst Virtual Program 
-- Mastercard Cybersecurity Virtual Experience Program 
-- Datacom Cybersecurity Virtual Experience
+## 🎓 Certifications & Learning
+- ✅ Google Cybersecurity Certificate  
+- ✅ ISC² Certified in Cybersecurity (CC)  
+- 🎯 CompTIA Security+ (in progress)  
+- 📖 Continuous learning in SOC operations, IAM, and Risk Management  
 
 ---
 
-## 📫 Connect with Me
-- 📧 Email: jimidorcas1@gmail.com
-- 💼 LinkedIn: [Dorcas Olujimi](https://www.linkedin.com/in/dorcas-o-3028b29a/)
-
-- 💻 GitHub: [github.com/jimidorcas](https://github.com/jimidorcas)
+## 📫 Let’s Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 🌐 Portfolio projects here on GitHub  
 
 ---
-> *Always learning. Always securing.*
 
+⭐️ *Currently building a career at the intersection of SOC analysis, IAM, and Risk Management — with a passion for making security practical, usable, and effective.*
