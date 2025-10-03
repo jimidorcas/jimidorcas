@@ -32,7 +32,7 @@ I enjoy breaking down security challenges into practical, actionable solutions -
 ---
 
 ## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/dorcas-o-3028b29a/)  
 - 🌐 Portfolio projects here on GitHub  
 
 ---
