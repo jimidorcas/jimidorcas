@@ -1,25 +1,25 @@
-👋 Hi, I’m Dorcas  
+# 👋 Hi, I’m Dorcas  
 
-🔐 **Cybersecurity Analyst** with a growing focus in **Identity & Access Management (IAM)** and **Risk Management**.  
-I enjoy breaking down security challenges into practical, actionable solutions - from monitoring and detection to designing policies and reducing risk exposure.  
-
----
-
-## 🚀 What I’m Working On
-- 📨 **[Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)** – Detecting & documenting phishing attempts.  
-- 📊 **SIEM Monitoring Lab – Splunk Home Setup** – Building dashboards, analyzing logs, and monitoring threats.  
-- 🛡️ **[Phishing Link Verification Checklist](https://github.com/phishing-awareness-hr-marketing/Spot-The-Phish-Checklist.md)** – A professional checklist to verify links and prevent phishing.  
-- 📑 Risk Assessments – Developing structured risk assessment templates with inherent/current/target risk ratings.  
-- 🔐 IAM Solution Designs – Outlining lifecycle management & access control strategies.
+🔐 **Cybersecurity Analyst** with a focus on **Identity & Access Management (IAM)**, **Risk Management**, and **Security Awareness & Training**.  
+I’m passionate about reducing organisational risk by securing access, managing vulnerabilities, and empowering people through awareness.  
 
 ---
 
-## 🧰 Skills & Tools
-- **Threat Analysis & SOC Tools**: Splunk, Wireshark, OSINT  
-- **Identity & Access Management (IAM)**: RBAC, MFA, lifecycle automation concepts  
-- **Risk Management**: Risk assessments, security controls, GRC frameworks (ISO 27001, NIST CSF)  
-- **Cybersecurity Foundations**: Network security, phishing detection, vulnerability management  
-- **Languages & Tech**: Python (automation), SQL, Linux  
+## 🚀 Projects
+- 📨 **[Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)** – Breaking down phishing attacks and documenting techniques.  
+- 📊 **SIEM Monitoring Lab (Splunk)** – Detecting threats, building dashboards, and monitoring anomalies.  
+- 🛡️ **[Phishing Link Verification Checklist](https://github.com/jimidorcas/phishing-link-verification-checklist)** – A professional guide to verifying links and preventing phishing.  
+- 📑 **Risk Assessment Templates** – Inherent/current/target risk ratings with CIA triad mapping.  
+- 🔐 **IAM Solution Designs** – User lifecycle management, RBAC, and MFA strategies.  
+
+---
+
+## 🧰 Skills
+- **IAM & Access Control** – RBAC, MFA, lifecycle management concepts  
+- **Risk Management** – Risk assessments, GRC frameworks (ISO 27001, NIST CSF)  
+- **Security Awareness** – Phishing simulations, awareness campaigns, training playbooks  
+- **SOC Skills** – Phishing analysis, SIEM (Splunk), log analysis  
+- **Tools** – Splunk, VirusTotal, Wireshark, GoPhish, MS Entra ID (Azure AD)  
 
 ---
 
@@ -27,14 +27,8 @@ I enjoy breaking down security challenges into practical, actionable solutions -
 - ✅ Google Cybersecurity Certificate  
 - ✅ ISC² Certified in Cybersecurity (CC)  
 - 🎯 CompTIA Security+ (in progress)  
-- 📖 Continuous learning in SOC operations, IAM, and Risk Management  
+- 📖 Building further expertise in IAM, Risk, and Security Awareness  
 
 ---
 
-## 📫 Let’s Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/dorcas-o-3028b29a/)  
-- 🌐 Portfolio projects here on GitHub  
-
----
-
-⭐️ *Currently building a career at the intersection of SOC analysis, IAM, and Risk Management - with a passion for making security practical, usable, and effective.*
+⭐️ *Bridging people, processes, and technology to strengthen organisational security posture.*  
