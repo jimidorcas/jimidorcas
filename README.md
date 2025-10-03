@@ -37,4 +37,4 @@ I enjoy breaking down security challenges into practical, actionable solutions -
 
 ---
 
-⭐️ *Currently building a career at the intersection of SOC analysis, IAM, and Risk Management — with a passion for making security practical, usable, and effective.*
+⭐️ *Currently building a career at the intersection of SOC analysis, IAM, and Risk Management - with a passion for making security practical, usable, and effective.*
