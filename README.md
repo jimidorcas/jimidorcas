@@ -8,7 +8,7 @@ I enjoy breaking down security challenges into practical, actionable solutions -
 ## 🚀 What I’m Working On
 - 📨 **[Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)** – Detecting & documenting phishing attempts.  
 - 📊 **SIEM Monitoring Lab – Splunk Home Setup** – Building dashboards, analyzing logs, and monitoring threats.  
-- 🛡️ **[Phishing Link Verification Checklist](https://github.com/jimidorcas/phishing-link-verification-checklist)** – A professional checklist to verify links and prevent phishing.  
+- 🛡️ **[Phishing Link Verification Checklist](https://github.com/phishing-awareness-hr-marketing/Spot-The-Phish-Checklist.md)** – A professional checklist to verify links and prevent phishing.  
 - 📑 Risk Assessments – Developing structured risk assessment templates with inherent/current/target risk ratings.  
 - 🔐 IAM Solution Designs – Outlining lifecycle management & access control strategies.
 
