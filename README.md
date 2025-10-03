@@ -1,7 +1,7 @@
-a# 👋 Hi, I’m Dorcas  
+👋 Hi, I’m Dorcas  
 
 🔐 **Cybersecurity Analyst** with a growing focus in **Identity & Access Management (IAM)** and **Risk Management**.  
-I enjoy breaking down security challenges into practical, actionable solutions — from monitoring and detection to designing policies and reducing risk exposure.  
+I enjoy breaking down security challenges into practical, actionable solutions - from monitoring and detection to designing policies and reducing risk exposure.  
 
 ---
 
