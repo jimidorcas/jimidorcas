@@ -27,7 +27,6 @@ I’m passionate about reducing organisational risk by securing access, managing
 - ✅ Google Cybersecurity Certificate  
 - ✅ ISC² Certified in Cybersecurity (CC)  
 - 🎯 CompTIA Security+ (in progress)  
-- 📖 Building further expertise in IAM, Risk, and Security Awareness  
 
 ---
 
