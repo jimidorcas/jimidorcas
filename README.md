@@ -7,7 +7,7 @@ I’m passionate about reducing organisational risk by securing access, managing
 
 ## 🚀 Projects
 - 📨 **[Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)** – Breaking down phishing attacks and documenting techniques.  
-- 📊 **SIEM Monitoring Lab (Splunk)** – Detecting threats, building dashboards, and monitoring anomalies.  
+- 📊 **[SIEM Monitoring Lab (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)** – Detecting threats, building dashboards, and monitoring anomalies.  
 - 🛡️ **[Phishing Link Verification Checklist](https://github.com/jimidorcas/Security-Awareness-Campaign)** – A professional guide to verifying links and preventing phishing.  
 - 📑 **Risk Assessment Templates** – Inherent/current/target risk ratings with CIA triad mapping.  
 - 🔐 **IAM Solution Designs** – User lifecycle management, RBAC, and MFA strategies.  
