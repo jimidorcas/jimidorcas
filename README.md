@@ -66,4 +66,4 @@ Splunk • Nmap • OpenVAS • Python • Sysmon • Windows & Linux • MITRE 
 
 ---
 
-> “Security is not just a system — it’s a habit. Awareness turns users into the strongest defense.”
+> “Security is not just a system - it’s a habit. Awareness turns users into the strongest defense.”
