@@ -34,7 +34,7 @@ Includes playbooks, incident reports, and post-incident lessons learned aligned 
 
 ### 🧠 [Security Awareness Campaign](https://github.com/jimidorcas/security-awareness-campaign)
 Developed a full awareness toolkit for employees and the public, including a **Phishing Awareness Program**, checklists, quizzes, and reporting workflows.  
-Focused on HR and Marketing — two of the most targeted departments in phishing attacks.
+Focused on HR and Marketing - two of the most targeted departments in phishing attacks.
 
 ---
 
