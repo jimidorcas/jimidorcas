@@ -40,7 +40,7 @@ Focused on HR and Marketing - two of the most targeted departments in phishing a
 
 ### ⚙️ [SIEM Threat Detection Lab (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
 Configured a home Splunk environment to simulate SOC operations.  
-Built dashboards and SPL queries to detect brute-force attempts, suspicious processes, and unusual network traffic.
+Built dashboards and SPL queries to detect brute-force attempts, suspicious processes, and unusual network traffic
 
 ---
 
