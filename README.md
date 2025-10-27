@@ -3,7 +3,7 @@
 **Cybersecurity Analyst | SOC Monitoring | Threat Detection | Incident Response | Security Awareness**
 
 I help organisations strengthen their defenses through **threat detection, vulnerability management, and security awareness initiatives**.  
-My focus lies in bridging the gap between technology and people - building systems that not only detect threats, but also educate users to prevent them.
+My focus lies in bridging the gap between technology and people - building systems that not only detect threats, but also educate users to prevent them
 
 ---
 
