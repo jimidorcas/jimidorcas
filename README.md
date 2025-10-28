@@ -22,7 +22,7 @@ My focus lies in bridging the gap between technology and people - building syste
 
 ### 🔍 [Network Threat Monitoring & Alert Correlation (SIEM Focus)](https://github.com/jimidorcas/network-threat-monitoring)
 Simulated real-time SOC monitoring using Splunk, with correlation rules for **brute-force logins, port scanning, and suspicious logins**.  
-Developed alert workflows, tuning recommendations, and dashboards for improved visibility.
+Developed alert workflows, tuning recommendations, and dashboards for improved visibility
 
 ---
 
