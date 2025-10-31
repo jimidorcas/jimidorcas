@@ -50,7 +50,8 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 - **Google AI Essentials** – Jun 2025  
 - **Mastercard Cybersecurity Virtual Experience – Forage** – Aug 2025  
 - **Tata Cybersecurity Analyst Virtual Program – Forage** – Aug 2025  
-- **Datacom Cybersecurity Virtual Experience – Forage** – Aug 2025  
+- **Datacom Cybersecurity Virtual Experience – Forage** – Aug 2025
+- **Comptia Security+** - In progress
 
 ---
 
