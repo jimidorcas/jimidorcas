@@ -1,20 +1,29 @@
 # 👋 Hi, I’m Dorcas Olujimi  
 
-**Cybersecurity Analyst | SOC Monitoring | Threat Detection | Incident Response | Security Awareness**
+IT Service Desk | Cybersecurity Analyst (Blue Team) | Microsoft 365 Support
 
-I help organisations strengthen their defenses through **threat detection, vulnerability management, and security awareness initiatives**
-My focus lies in bridging the gap between technology and people - building systems that not only detect threats, but also educate users to prevent them
+I’m an IT Support and Cybersecurity professional with hands-on experience in user support, troubleshooting, incident analysis, and secure system operations. I enjoy translating technical issues into clear solutions while building a strong foundation in defensive security through practical labs and real-world scenarios.
+
+I’m currently transitioning deeper into cybersecurity, with a focus on:
+
+Security Operations (SOC)
+
+Identity & Access Management (IAM)
+
+Risk Management & Security Awareness
+
+Threat Analysis and Detection
 
 ---
 
-## 🛡️ Core Focus Areas
-- SIEM Monitoring & Alert Correlation (Splunk)
-- Incident Response & Ransomware Playbooks
-- Vulnerability Scanning & Remediation (Nmap, OpenVAS)
-- Threat Hunting & Log Analysis (Sysmon, PowerShell)
-- Identity & Access Management (IAM)
-- Security Awareness Campaigns
-- MITRE ATT&CK & NIST CSF Frameworks
+🔧 Technical Skills
+
+Support & Troubleshooting: Windows 10/11, Microsoft 365, Exchange Online, Teams Admin, Printer Management
+Identity & Access: Azure AD / Entra ID, Active Directory (Users, Groups, Permissions)
+Cybersecurity: SIEM (Splunk), Log Analysis, Incident Response Basics
+Networking: DNS, DHCP, VPN, Basic TCP/IP tools (ping, tracert, ipconfig, nslookup)
+Tools: AnyDesk, RDP, TeamViewer, VirusTotal, OSINT tools, Event Viewer
+ITSM: Freshservice, Jira Service Desk, Ticket lifecycle management
 
 ---
 
@@ -55,8 +64,27 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
 ---
 
-## ⚙️ Tools & Platforms
-Splunk • Nmap • OpenVAS • Python • Sysmon • Windows & Linux • MITRE ATT&CK • NIST CSF • Veeam Backup • Microsoft Defender  
+## 💼 What I’m Working On
+
+Completing CompTIA Security+ (SY0-701)
+
+Expanding my SIEM + log analysis skills
+
+Strengthening IAM knowledge (Azure AD, MFA, Role-Based Access)
+
+Building documentation-focused projects to demonstrate analyst-level workflows
+
+🎯 Career Interests
+
+IT Service Desk / Support Technician
+
+Junior Cybersecurity Analyst
+
+SOC Analyst (L1)
+
+IT Operations & Systems Support
+
+IAM Support / Access Management 
 
 ---
 
