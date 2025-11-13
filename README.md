@@ -91,7 +91,7 @@ IAM Support / Access Management
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dorcas-o-3028b29a/)  
 - 💻 [GitHub](https://github.com/jimidorcas)  
-- 📧 jimidorcas1@gmail.com  
+- 📧 [Email](jimidorcas1@gmail.com)  
 
 ---
 
