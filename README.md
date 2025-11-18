@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Dorcas Olujimi  
 
-IT Service Desk | Cybersecurity Analyst (Blue Team) | Microsoft 365 Support
+IT Service Desk | Cybersecurity Analyst (Blue Team) 
 
 I’m an IT Support and Cybersecurity professional with hands-on experience in user support, troubleshooting, incident analysis, and secure system operations. I enjoy translating technical issues into clear solutions while building a strong foundation in defensive security through practical labs and real-world scenarios.
 
