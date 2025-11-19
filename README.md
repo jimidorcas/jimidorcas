@@ -2,7 +2,7 @@
 
 IT Professional | Cybersecurity Analyst (Blue Team) 
 
-I’m an IT Support and Cybersecurity professional with hands-on experience in user support, troubleshooting, incident analysis, and secure system operations. I enjoy translating technical issues into clear solutions while building a strong foundation in defensive security through practical labs and real-world scenarios.
+I’m an IT Support and Cybersecurity professional with hands-on experience in user support, troubleshooting, incident analysis, and secure system operations. I enjoy translating technical issues into clear solutions while building a strong foundation in defensive security through practical labs and real-world scenarios
 
 I’m currently transitioning deeper into cybersecurity, with a focus on:
 
