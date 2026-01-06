@@ -1,18 +1,13 @@
 # 👋 Hi, I’m Dorcas Olujimi  
 
-IT Professional | Cybersecurity Analyst (Blue Team) 
+Cybersecurity Analyst | ISC2 Certified in Cybersecurity (CC)
+Focused on security operations, threat detection, and incident response with a strong IT foundation.
 
-I’m an IT Support and Cybersecurity professional with hands-on experience in user support, troubleshooting, incident analysis, and secure system operations. I enjoy translating technical issues into clear solutions while building a strong foundation in defensive security through practical labs and real-world scenarios
+⸻
 
-I’m currently transitioning deeper into cybersecurity, with a focus on:
+🧭 About Me
 
-Security Operations (SOC)
-
-Identity & Access Management (IAM)
-
-Risk Management & Security Awareness
-
-Threat Analysis and Detection
+I work at the intersection of IT operations and cybersecurity, with a growing focus on SOC workflows, log analysis, and threat detection. My approach is grounded in understanding system behaviour, analysing signals, and translating technical findings into clear, actionable insights.
 
 ---
 
