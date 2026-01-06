@@ -18,12 +18,23 @@ Threat Analysis and Detection
 
 🔧 Technical Skills
 
-Support & Troubleshooting: Windows 10/11, Microsoft 365, Exchange Online, Teams Admin, Printer Management
-Identity & Access: Azure AD / Entra ID, Active Directory (Users, Groups, Permissions)
-Cybersecurity: SIEM (Splunk), Log Analysis, Incident Response Basics
-Networking: DNS, DHCP, VPN, Basic TCP/IP tools (ping, tracert, ipconfig, nslookup)
-Tools: AnyDesk, RDP, TeamViewer, VirusTotal, OSINT tools, Event Viewer
-ITSM: Freshservice, Jira Service Desk, Ticket lifecycle management
+Support & Systems:
+Windows 10/11, Linux fundamentals (basic CLI), system and application log review, endpoint troubleshooting
+
+Identity & Access:
+User access management, password policies, MFA concepts, least privilege principles
+
+Cybersecurity & SOC:
+SIEM monitoring (Splunk), log analysis, alert triage, phishing analysis, incident response fundamentals, security awareness
+
+Networking & Traffic Analysis:
+TCP/IP, DNS, HTTP/HTTPS, SSH, packet capture and inspection (Wireshark, tcpdump), network scanning (Nmap)
+
+Tools & Utilities:
+Splunk, Wireshark, tcpdump, Nmap, Event Viewer, VirusTotal, OSINT tools
+
+Processes & ITSM:
+Ticket-based investigations, incident lifecycle awareness, documentation and reporting, exposure to ITSM workflows
 
 ---
 
