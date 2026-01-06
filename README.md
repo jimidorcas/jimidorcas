@@ -16,25 +16,26 @@ Threat Analysis and Detection
 
 ---
 
-🔧 Technical Skills
 
-Support & Systems:
-Windows 10/11, Linux fundamentals (basic CLI), system and application log review, endpoint troubleshooting
+🔧 Technical Skills & Tooling
 
-Identity & Access:
-User access management, password policies, MFA concepts, least privilege principles
+Security Technologies 
+	•	SIEM, EDR, Threat Intelligence Platforms, Network Traffic Analysis
+	•	Email Security, Data Loss Prevention, IAM
+	•	Incident Response & SOAR concepts
 
-Cybersecurity & SOC:
-SIEM monitoring (Splunk), log analysis, alert triage, phishing analysis, incident response fundamentals, security awareness
+Tools & Platforms (Hands-On)
+	•	Splunk – log ingestion, dashboards, alerting
+	•	Wireshark, tcpdump – packet capture and protocol analysis
+	•	Nmap – network scanning and service discovery
+	•	Windows Event Viewer – system and security log analysis
+	•	VirusTotal, OSINT tools
 
-Networking & Traffic Analysis:
-TCP/IP, DNS, HTTP/HTTPS, SSH, packet capture and inspection (Wireshark, tcpdump), network scanning (Nmap)
+Systems & Networking
+	•	Windows 10/11, Windows Server (awareness: 2008–2016)
+	•	Linux fundamentals (basic CLI), macOS
+	•	TCP/IP, DNS, HTTP/HTTPS, SSH
 
-Tools & Utilities:
-Splunk, Wireshark, tcpdump, Nmap, Event Viewer, VirusTotal, OSINT tools
-
-Processes & ITSM:
-Ticket-based investigations, incident lifecycle awareness, documentation and reporting, exposure to ITSM workflows
 
 ---
 
@@ -64,38 +65,19 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
 ---
 
+## 🧠 What I’m Working On
+	•	Strengthening SOC skills: alert triage, investigation workflows, and detection logic
+	•	Deepening networking and traffic analysis fundamentals
+	•	Expanding security awareness and incident response projects
+
+⸻
+
 ## 🎓 Certifications & Training
-- **ISC2 Certified in Cybersecurity (CC)** – Jul 2025  
-- **Google Cybersecurity Professional Certificate** – Mar 2025  
-- **Google AI Essentials** – Jun 2025  
-- **Mastercard Cybersecurity Virtual Experience – Forage** – Aug 2025  
-- **Tata Cybersecurity Analyst Virtual Program – Forage** – Aug 2025  
-- **Datacom Cybersecurity Virtual Experience – Forage** – Aug 2025
-- **CompTIA Security+** - 
+	•	ISC2 Certified in Cybersecurity (CC)
+  • Google Cybersecurity Professional Certificate
+  • CompTIA Security + (SYO-701) 
+	•	Hands-on labs and simulations (SOC, networking, threat detection)
 
----
-
-## 💼 What I’m Working On
-
-Completing CompTIA Security+ (SY0-701)
-
-Expanding my SIEM + log analysis skills
-
-Strengthening IAM knowledge (Azure AD, MFA, Role-Based Access)
-
-Building documentation-focused projects to demonstrate analyst-level workflows
-
-🎯 Career Interests
-
-IT Service Desk / Support Technician
-
-Junior Cybersecurity Analyst
-
-SOC Analyst (L1)
-
-IT Operations & Systems Support
-
-IAM Support / Access Management 
 
 ---
 
