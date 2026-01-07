@@ -11,7 +11,6 @@ I work at the intersection of IT operations and cybersecurity, with a growing fo
 
 ---
 
-
 🔧 Technical Skills & Tooling
 
 Security Technologies 
