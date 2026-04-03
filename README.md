@@ -67,9 +67,12 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 ⸻
 
 ## 🎓 Certifications & Training
-  • Google Cybersecurity Professional Certificate
+
   • CompTIA Security + (SYO-701) 
+  
   •	ISC2 Certified in Cybersecurity (CC)
+  
+  • Google Cybersecurity Professional Certificate
 	
 
 
