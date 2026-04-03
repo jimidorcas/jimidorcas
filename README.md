@@ -70,7 +70,7 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
   • [CompTIA Security + (SYO-701) ](https://www.credly.com/badges/4bc443f9-9d53-4a2e-af6d-20876bb1b483/public_url)
   
-  •	ISC2 Certified in Cybersecurity (CC)
+  •	[ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/f19db46a-e6cc-4c6f-995d-431542c7569d/public_url)
   
   • Google Cybersecurity Professional Certificate
 	
