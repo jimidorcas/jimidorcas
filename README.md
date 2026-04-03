@@ -3,8 +3,7 @@
 CompTIA, Google and ISC2 Certified Cybersecurity Analyst
 Focused on security operations, threat detection, and incident response.
 
-⸻
-
+---
 🧭 About Me
 
 I work at the intersection of IT operations and cybersecurity, with a growing focus on SOC workflows, log analysis, and threat detection. My approach is grounded in understanding system behaviour, analysing signals, and translating technical findings into clear, actionable insights.
@@ -64,7 +63,7 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 	•	Deepening networking and traffic analysis fundamentals
 	•	Expanding security awareness and incident response projects
 
-⸻
+---
 
 ## 🎓 Certifications & Training
 
