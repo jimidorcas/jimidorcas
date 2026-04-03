@@ -72,7 +72,7 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
   
   •	[ISC2 Certified in Cybersecurity (CC)](https://www.credly.com/badges/f19db46a-e6cc-4c6f-995d-431542c7569d/public_url)
   
-  • [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBSIBMB1OWZ4))
+  • [Google Cybersecurity Professional Certificate](https://www.coursera.org/account/accomplishments/professional-cert/LBSIBMB1OWZ4)
 	
 
 
