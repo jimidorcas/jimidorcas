@@ -67,10 +67,10 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 ⸻
 
 ## 🎓 Certifications & Training
-	•	ISC2 Certified in Cybersecurity (CC)
   • Google Cybersecurity Professional Certificate
   • CompTIA Security + (SYO-701) 
-	•	Hands-on labs and simulations (SOC, networking, threat detection)
+  •	ISC2 Certified in Cybersecurity (CC)
+	
 
 
 ---
@@ -78,7 +78,7 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 ## 📫 Connect with Me
 - 💼 [LinkedIn](https://www.linkedin.com/in/dorcas-o-3028b29a/)  
 - 💻 [GitHub](https://github.com/jimidorcas)  
-- 📧 [Email](jimidorcas1@gmail.com)  
+- 📧 [Email](/jimidorcas1@gmail.com/)  
 
 ---
 
