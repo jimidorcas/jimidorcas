@@ -58,10 +58,13 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
 ---
 
-## 🧠 What I’m Working On
-	•	Strengthening SOC skills: alert triage, investigation workflows, and detection logic
-	•	Deepening networking and traffic analysis fundamentals
-	•	Expanding security awareness and incident response projects
+## 🧠 What I’m Working On		
+
+ . Strengthening SOC skills: alert triage, investigation workflows, and detection logic
+
+ . Deepening networking and traffic analysis fundamentals
+ 
+ . Expanding security awareness and incident response projects
 
 ---
 
