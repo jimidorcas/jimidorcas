@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Dorcas Olujimi  
 
-Cybersecurity Analyst | ISC2 Certified in Cybersecurity (CC)
-Focused on security operations, threat detection, and incident response with a strong IT foundation.
+CompTIA, Google and ISC2 Certified Cybersecurity Analyst
+Focused on security operations, threat detection, and incident response.
 
 ⸻
 
