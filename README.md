@@ -1,12 +1,11 @@
 # 👋 Hi, I’m Dorcas Olujimi  
 
-CompTIA, Google, and ISC2 Certified Cybersecurity Analyst
-Focused on security operations, threat detection, and incident response.
+Cybersecurity Analyst | Security Operations & Threat Detection
 
 ---
 🧭 About Me
 
-I work at the intersection of IT operations and cybersecurity, with a growing focus on SOC workflows, log analysis, and threat detection. My approach is grounded in understanding system behaviour, analysing signals, and translating technical findings into clear, actionable insights.
+Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with a strong foundation in IT operations, SOC workflows, and log analysis. Passionate about understanding system behavior, analyzing attack signals, and turning raw telemetry into actionable defense strategies
 
 ---
 
