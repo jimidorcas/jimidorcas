@@ -9,13 +9,15 @@ Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with
 
 ---
 
-🔧 Technical Skills & Tooling
-Category,Core Tools & Frameworks
-SIEM & Logs,Splunk Windows Event Logs Sysmon
-Packet & Network Analysis,Wireshark tcpdump Nmap
-Triage & Threat Intel,VirusTotal OSINT Threat Analysis
-Core Security & IR,NIST IR Framework EDR DLP IAM
-Systems & Protocols,Linux CLI Windows Server TCP/IP DNS SSH
+### 🛠️ Technical Skills & Tooling
+
+| Category | Core Tools & Frameworks |
+| :--- | :--- |
+| **SIEM & Logs** | `Splunk` `Windows Event Logs` `Sysmon` |
+| **Packet & Network Analysis** | `Wireshark` `tcpdump` `Nmap` |
+| **Triage & Threat Intel** | `VirusTotal` `OSINT` `Threat Analysis` |
+| **Core Security & IR** | `NIST IR Framework` `EDR` `DLP` `IAM` |
+| **Systems & Protocols** | `Linux CLI` `Windows Server` `TCP/IP` `DNS` `SSH` |
 
 
 ---
