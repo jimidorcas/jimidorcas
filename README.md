@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Dorcas Olujimi  
+# 👋 Hi, I’m Dorcas  
 
 Cybersecurity Analyst | Security Operations & Threat Detection
 
