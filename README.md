@@ -50,11 +50,9 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
 ## 🧠 What I’m Working On		
 
- • Strengthening SOC skills: alert triage, investigation workflows, and detection logic
- 
- • Deepening networking and traffic analysis fundamentals
- 
- • Expanding security awareness and incident response projects
+*   **Active Threat Detection:** Refining log parsing, alert triage, and investigation workflows using home-lab SIEM environments.
+*   **Packet-Level Visibility:** Deepening network traffic analysis fundamentals through hands-on protocol dissection and anomaly spotting.
+*   **Incident Response Readiness:** Building end-to-end IR playbooks and translating threat intelligence into actionable defense scenarios.
 
 ---
 
