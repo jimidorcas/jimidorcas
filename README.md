@@ -87,4 +87,4 @@ Built dashboards and SPL queries to detect brute-force attempts, suspicious proc
 
 ---
 
-> “Security is not just a system - it’s a habit. Awareness turns users into the strongest defense.”
+> “Security is not just a system - it’s a habit. Awareness turns users into the strongest defense”
