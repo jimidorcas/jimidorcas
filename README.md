@@ -10,23 +10,12 @@ Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with
 ---
 
 🔧 Technical Skills & Tooling
-
-Security Technologies 
-	•	SIEM, EDR, Threat Intelligence Platforms, Network Traffic Analysis
-	•	Email Security, Data Loss Prevention, IAM
-	•	Incident Response & SOAR concepts
-
-Tools & Platforms (Hands-On)
-	•	Splunk – log ingestion, dashboards, alerting
-	•	Wireshark, tcpdump – packet capture and protocol analysis
-	•	Nmap – network scanning and service discovery
-	•	Windows Event Viewer – system and security log analysis
-	•	VirusTotal, OSINT tools
-
-Systems & Networking
-	•	Windows 10/11, Windows Server (awareness: 2008–2016)
-	•	Linux fundamentals (basic CLI), macOS
-	•	TCP/IP, DNS, HTTP/HTTPS, SSH
+Category,Core Tools & Frameworks
+SIEM & Logs,Splunk Windows Event Logs Sysmon
+Packet & Network Analysis,Wireshark tcpdump Nmap
+Triage & Threat Intel,VirusTotal OSINT Threat Analysis
+Core Security & IR,NIST IR Framework EDR DLP IAM
+Systems & Protocols,Linux CLI Windows Server TCP/IP DNS SSH
 
 
 ---
