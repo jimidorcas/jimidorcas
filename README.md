@@ -24,6 +24,9 @@ Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with
 
 ## 📂 Featured Projects
 
+### [Honeypot Project ](https://github.com/jimidorcas/Honeypot-Project)
+
+
 ### 🔍 [Network Threat Monitoring & Alert Correlation (SIEM Focus)](https://github.com/jimidorcas/network-threat-monitoring)
 Simulated real-time SOC monitoring using Splunk, with correlation rules for **brute-force logins, port scanning, and suspicious logins**.  
 Developed alert workflows, tuning recommendations, and dashboards for improved visibility
