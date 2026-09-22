@@ -35,9 +35,8 @@ Developed alert workflows, tuning recommendations, and dashboards for improved v
 
 ---
 
-### 💥 [Ransomware Incident Response Scenario (DarkVault Case Study)](https://github.com/jimidorcas/ransomware-incident-response)
-End-to-end simulation of a ransomware attack covering **detection, containment, recovery, and communication**.  
-Includes playbooks, incident reports, and post-incident lessons learned aligned with NIST guidelines.
+### 💥 [Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)]
+Analysed phishing emails to identify social engineering indicators, inspect email headers, assess suspicious links and attachments, and document findings. Demonstrates practical skills in phishing detection, email security, threat analysis, and security awareness.
 
 ---
 
