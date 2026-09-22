@@ -35,7 +35,7 @@ Developed alert workflows, tuning recommendations, and dashboards for improved v
 
 ---
 
-### 💥 [Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)]
+### 💥 [Phishing Analysis Portfolio](https://github.com/jimidorcas/Phishing-analysis-portfolio)
 Analysed phishing emails to identify social engineering indicators, inspect email headers, assess suspicious links and attachments, and document findings. Demonstrates practical skills in phishing detection, email security, threat analysis, and security awareness.
 
 ---
