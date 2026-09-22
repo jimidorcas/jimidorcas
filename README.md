@@ -24,7 +24,9 @@ Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with
 
 ## 📂 Featured Projects
 
-### [Honeypot Project ](https://github.com/jimidorcas/Honeypot-Project)
+### 🍯 [Honeypot Project ](https://github.com/jimidorcas/Honeypot-Project)
+Built and deployed a cybersecurity honeypot to capture and analyse real-world attack activity. Investigated 256 events across 45 unique IP addresses, identifying suspicious authentication activity and attacker patterns while strengthening hands-on skills in threat detection, log analysis, network security, and incident investigation.
+
 
 
 ### 🔍 [Network Threat Monitoring & Alert Correlation (SIEM Focus)](https://github.com/jimidorcas/network-threat-monitoring)
