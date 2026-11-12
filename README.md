@@ -32,6 +32,7 @@ Built and deployed a cybersecurity honeypot to capture and analyse real-world at
 ###    [DFIR: Compromised Windows Host Analysis](https://github.com/jimidorcas/dfir-compromised-host-analysis)
 
 Conducted a post-breach digital forensics investigation on a compromised Windows Server environment. Audited local privilege escalation vectors via PowerShell and uncovered attacker persistence mechanisms in Windows Task Scheduler, including typo-squatted tasks (falshupdate22) and a malicious Netcat listener script (nc.ps1 on port 1348). Documented all Indicators of Compromise (IoCs) alongside actionable remediation guidance.
+
 ---
 
 ### ⚙️ [SIEM Threat Detection Lab (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
