@@ -24,14 +24,25 @@ Certified professional (CompTIA Security+ | ISC2 CC | Google Cybersecurity) with
 
 ## 📂 Featured Projects
 
+
+### [Active Directory & Microsoft Entra ID Hybrid Identity Lab](https://github.com/jimidorcas/active-directory-entra-id-hybrid-lab)
+
+Deployed and configured a hybrid identity infrastructure bridging an on-premises Windows Server Active Directory domain with cloud-based Microsoft Entra ID. Implemented Microsoft Entra Cloud Sync to automate identity provisioning and verified real-time directory synchronisation by testing end-to-end user lifecycle replication from on-premises to the cloud
+
+---
+
+### [DFIR: Compromised Windows Host Analysis](https://github.com/jimidorcas/dfir-compromised-host-analysis)
+
+Conducted a post-breach digital forensics investigation on a compromised Windows Server environment. Audited local privilege escalation vectors via PowerShell and uncovered attacker persistence mechanisms in Windows Task Scheduler, including typo-squatted tasks (falshupdate22) and a malicious Netcat listener script (nc.ps1 on port 1348). Documented all Indicators of Compromise (IoCs) alongside actionable remediation guidance
+
+---
+
+
 ### 🍯 [Honeypot Project ](https://github.com/jimidorcas/Honeypot-Project)
 Built and deployed a cybersecurity honeypot to capture and analyse real-world attack activity. Investigated 256 events across 45 unique IP addresses, identifying suspicious authentication activity and attacker patterns while strengthening hands-on skills in threat detection, log analysis, network security, and incident investigation.
 
 ---
 
-###    [DFIR: Compromised Windows Host Analysis](https://github.com/jimidorcas/dfir-compromised-host-analysis)
-
-Conducted a post-breach digital forensics investigation on a compromised Windows Server environment. Audited local privilege escalation vectors via PowerShell and uncovered attacker persistence mechanisms in Windows Task Scheduler, including typo-squatted tasks (falshupdate22) and a malicious Netcat listener script (nc.ps1 on port 1348). Documented all Indicators of Compromise (IoCs) alongside actionable remediation guidance.
 
 ---
 
