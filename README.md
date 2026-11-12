@@ -38,7 +38,7 @@ Conducted a post-breach digital forensics investigation on a compromised Windows
 ---
 
 
-### 🍯 [Honeypot Project ](https://github.com/jimidorcas/Honeypot-Project)
+### 🍯 [Threat Intelligence & Honeypot Traffic Analysis](https://github.com/jimidorcas/Honeypot-Project)
 Built and deployed a cybersecurity honeypot to capture and analyse real-world attack activity. Investigated 256 events across 45 unique IP addresses, identifying suspicious authentication activity and attacker patterns while strengthening hands-on skills in threat detection, log analysis, network security, and incident investigation.
 
 ---
