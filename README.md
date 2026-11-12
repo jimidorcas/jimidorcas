@@ -29,6 +29,8 @@ Built and deployed a cybersecurity honeypot to capture and analyse real-world at
 
 ---
 
+###    [DFIR](https://github.com/jimidorcas/dfir-compromised-host-analysis)
+
 ### ⚙️ [SIEM Threat Detection Lab (Splunk)](https://github.com/jimidorcas/siem-monitoring-lab)
 Configured a home Splunk environment to simulate SOC operations.  
 Built dashboards and SPL queries to detect brute-force attempts, suspicious processes, and unusual network traffic
